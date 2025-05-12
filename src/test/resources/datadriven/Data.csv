@@ -1,0 +1,4 @@
+user,password,amount,firstName,lastName,postalCode,confirmationMessage
+standard_user,secret_sauce,2,Josue,Presley,5105,Thank you for your order!
+standard_user,secret_sauce,3,Steven,Marley,5106,Thank you for your order!
+standard_user,secret_sauce,4,Chad,Smith,5107,Thank you for your order!
