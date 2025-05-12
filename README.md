@@ -40,6 +40,11 @@ src
 #### The sample scenario
 Both variations of the sample project uses the sample Cucumber scenario. In this scenario, Sergey (who likes to search for stuff) is performing a search on the internet:
 
+*Data replacement pattern*
+* *externaldata* = Data replacement pattern.
+* *./src/test/resources/datadriven/Data.csv* = Data file path.
+* *false* = Boolean flag to choose whether to replace all data or replace a random piece of data.
+
 ```Gherkin
 Feature: buy products on the website
 
