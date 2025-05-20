@@ -17,7 +17,7 @@
 
 ### INTRODUCTION
 
-Automated graphical user interface testing project by taking test data from an xlsx file, through a data-driven strategy using OpenCSV, a simple library for reading and writing CSV in Java.
+Automated graphical user interface testing project by taking test data from an csv file, through a data-driven strategy using OpenCSV, a simple library for reading and writing CSV in Java.
 
 #### The project directory structure
 The project has build scripts for Gradle, and follows the standard directory structure used in most Serenity projects:
